@@ -1,0 +1,35 @@
+.navbar{
+  padding: 20px;
+ background-color: antiquewhite;
+ 
+}
+
+
+.search{
+  display:flex;
+  justify-content: center;
+  padding: 20px 0;
+ 
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+}
+.back{
+  background-image: url("github.png");
+  background-position: center;
+  background-size: cover;
+}
+.inputApp{
+  border-radius: 20px 20px;
+}
+.inputRepos{
+  border-radius: 20px 20px;
+}
+.buttonApp{
+  background-color:goldenrod
+}
+.buttonRepos{
+  background-color:blueviolet
+}
