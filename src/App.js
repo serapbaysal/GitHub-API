@@ -95,6 +95,7 @@ const App=()=>{
       {error ?(<h1>{error}</h1>):
        (
       <div className="card">
+      
       <Card>
   <Image src={avatar} wrapped ui={false} />
   <Card.Content extra>
